@@ -16,3 +16,19 @@ D:\Visual Studio Project\VS 2013\BelajarGit\BelajarGit\bin\System.Web.Mvc.xml
 D:\Visual Studio Project\VS 2013\BelajarGit\BelajarGit\obj\Debug\BelajarGit.csprojResolveAssemblyReference.cache
 D:\Visual Studio Project\VS 2013\BelajarGit\BelajarGit\obj\Debug\BelajarGit.dll
 D:\Visual Studio Project\VS 2013\BelajarGit\BelajarGit\obj\Debug\BelajarGit.pdb
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\bin\BelajarGit.dll.config
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\bin\BelajarGit.dll
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\bin\BelajarGit.pdb
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\bin\System.Web.Helpers.dll
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\bin\System.Web.Razor.dll
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\bin\System.Web.Webpages.dll
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\bin\System.Web.Webpages.Razor.dll
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\bin\System.Web.Razor.xml
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\bin\System.Web.Webpages.xml
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\bin\System.Web.Webpages.Razor.xml
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\bin\System.Web.Helpers.xml
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\obj\Debug\BelajarGit.csprojResolveAssemblyReference.cache
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\obj\Debug\BelajarGit.dll
+C:\Users\ratna\Desktop\Belajar GIT\BelajarGit\BelajarGit\obj\Debug\BelajarGit.pdb
