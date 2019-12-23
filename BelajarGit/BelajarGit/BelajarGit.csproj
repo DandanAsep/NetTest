@@ -94,9 +94,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AfniController.cs" />
     <Compile Include="Controllers\BelajarGitController.cs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Compile Include="Controllers\RatnaController.cs" />
+=======
+    <Compile Include="Controllers\NafiController.cs" />
+>>>>>>> 5ad253d3de9b305ae13ba8c461763ff71365fafd
 =======
     <Compile Include="Controllers\MutiaController.cs" />
 >>>>>>> b8214b2a1566fde28e14a5e0ee695a6d04d2218f
@@ -119,10 +124,21 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Folder Include="Views\Ratna\" />
 =======
     <Folder Include="Views\Mutia\" />
 >>>>>>> b8214b2a1566fde28e14a5e0ee695a6d04d2218f
+=======
+    <Folder Include="Views\Afni\" />
+=======
+<<<<<<< HEAD
+    <Folder Include="Views\Nafi\" />
+=======
+    <Folder Include="Views\Mutia\" />
+>>>>>>> b8214b2a1566fde28e14a5e0ee695a6d04d2218f
+>>>>>>> 144c260485e8c0092af3dc6296df6fdcd9283a1e
+>>>>>>> 5ad253d3de9b305ae13ba8c461763ff71365fafd
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
