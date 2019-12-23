@@ -96,6 +96,11 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AfniController.cs" />
     <Compile Include="Controllers\BelajarGitController.cs" />
+<<<<<<< HEAD
+    <Compile Include="Controllers\NafiController.cs" />
+=======
+    <Compile Include="Controllers\MutiaController.cs" />
+>>>>>>> b8214b2a1566fde28e14a5e0ee695a6d04d2218f
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -114,7 +119,15 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+<<<<<<< HEAD
     <Folder Include="Views\Afni\" />
+=======
+<<<<<<< HEAD
+    <Folder Include="Views\Nafi\" />
+=======
+    <Folder Include="Views\Mutia\" />
+>>>>>>> b8214b2a1566fde28e14a5e0ee695a6d04d2218f
+>>>>>>> 144c260485e8c0092af3dc6296df6fdcd9283a1e
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
